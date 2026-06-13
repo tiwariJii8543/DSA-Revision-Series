@@ -1,1 +1,12 @@
+# C++ executables
 *.exe
+
+# Object files
+*.o
+*.obj
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
